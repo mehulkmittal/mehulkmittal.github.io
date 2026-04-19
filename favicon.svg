@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Mehul Mittal</title>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8df4d7" />
+      <stop offset="1" stop-color="#49d7ee" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#07111f" />
+  <path d="M10 12h44a10 10 0 0 1 0 20H34a10 10 0 0 0-10 10v10H10V12Z" fill="url(#bg)" opacity=".95" />
+  <path d="M16 45V22h4.5l7.5 11.8L35.5 22H40v23h-4.8V30.4l-6.8 10.2h-.8l-6.8-10.2V45H16Zm28.2 0V22H49v23h-4.8Z" fill="#07111f" />
+</svg>

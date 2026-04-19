@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Zendesk badge proof</title>
+  <desc id="desc">A stylized Zendesk Training profile page showing an Omnichannel Agent badge earned on 2024-Oct-29.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7f6f2" />
+      <stop offset="1" stop-color="#ece9e4" />
+    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4e7a4f" />
+      <stop offset="1" stop-color="#7fb96b" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="28" fill="url(#paper)" />
+  <rect x="0" y="0" width="1600" height="90" fill="#231d0a" />
+  <text x="24" y="56" fill="#ffffff" font-size="34" font-family="Arial, Helvetica, sans-serif">zendesk training</text>
+  <text x="980" y="52" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif">Online Training</text>
+  <text x="1130" y="52" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif">Certification Program</text>
+  <text x="1364" y="52" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif">Support</text>
+  <text x="1468" y="52" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif">English</text>
+
+  <text x="150" y="190" fill="#2a2a2a" font-size="58" font-family="Arial, Helvetica, sans-serif">My Profile</text>
+
+  <rect x="150" y="250" width="190" height="190" fill="#c9c9c9" />
+  <ellipse cx="245" cy="340" rx="42" ry="54" fill="#ffffff" />
+  <path d="M188 430c8-44 35-63 57-63s49 19 57 63" fill="#ffffff" />
+  <rect x="150" y="430" width="190" height="44" fill="#636363" opacity="0.85" />
+  <text x="205" y="460" fill="#ffffff" font-size="18" font-family="Arial, Helvetica, sans-serif">Update</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#2c2c2c">
+    <rect x="500" y="250" width="1020" height="48" fill="none" stroke="#d7d7d7" />
+    <rect x="500" y="306" width="1020" height="48" fill="none" stroke="#d7d7d7" />
+    <rect x="500" y="362" width="1020" height="48" fill="none" stroke="#d7d7d7" />
+    <rect x="500" y="418" width="1020" height="48" fill="none" stroke="#d7d7d7" />
+
+    <text x="576" y="280" font-size="18">First Name</text>
+    <text x="652" y="336" font-size="18">Last Name</text>
+    <text x="612" y="392" font-size="18">Email</text>
+    <text x="556" y="448" font-size="18">New Password</text>
+
+    <text x="740" y="280" font-size="18">Mehul</text>
+    <text x="740" y="336" font-size="18">Mittal</text>
+    <text x="740" y="392" font-size="18">support profile</text>
+    <text x="740" y="448" font-size="18" fill="#6b7a8a">Change your password</text>
+  </g>
+
+  <text x="150" y="580" fill="#232323" font-size="30" font-family="Georgia, Times New Roman, serif">My Badges</text>
+
+  <rect x="150" y="604" width="1370" height="34" fill="#efefef" stroke="#dedede" />
+  <rect x="150" y="638" width="1370" height="106" fill="#ffffff" stroke="#dedede" />
+  <text x="172" y="627" fill="#222222" font-size="16" font-family="Arial, Helvetica, sans-serif">Badge Name</text>
+  <text x="1040" y="627" fill="#222222" font-size="16" font-family="Arial, Helvetica, sans-serif">Date Earned</text>
+  <text x="1238" y="627" fill="#222222" font-size="16" font-family="Arial, Helvetica, sans-serif">Date Expires</text>
+
+  <circle cx="188" cy="691" r="28" fill="url(#badge)" />
+  <circle cx="188" cy="691" r="22" fill="none" stroke="#dfe8d8" stroke-width="2" />
+  <text x="168" y="686" fill="#eef8ea" font-size="8" font-family="Arial, Helvetica, sans-serif">OMNICHANNEL</text>
+  <text x="175" y="696" fill="#eef8ea" font-size="8" font-family="Arial, Helvetica, sans-serif">AGENT</text>
+  <text x="167" y="706" fill="#eef8ea" font-size="8" font-family="Arial, Helvetica, sans-serif">BADGE</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="230" y="694" fill="#5d46ff" font-size="18">Omnichannel Agent</text>
+    <text x="396" y="694" fill="#222222" font-size="18">Zendesk is built for agents first, which means the Agent Workspace is made for high-volume support work.</text>
+    <text x="1040" y="694" fill="#222222" font-size="18">2024-Oct-29</text>
+    <text x="1242" y="694" fill="#555555" font-size="18">-</text>
+  </g>
+
+  <text x="142" y="514" fill="#7e8a95" font-size="16" font-family="Arial, Helvetica, sans-serif">For best results, use a square image</text>
+</svg>
